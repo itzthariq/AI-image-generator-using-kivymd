@@ -1,1 +1,1 @@
-# AI-image-generator-using-kivymd
+# AI-image-generator-with-kivy
